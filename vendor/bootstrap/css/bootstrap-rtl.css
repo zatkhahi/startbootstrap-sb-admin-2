@@ -1177,8 +1177,8 @@ th {
     margin-right: auto;
   }
   .navbar-right .dropdown-menu {
-    left: 0;
-    right: auto;
+    left: auto;
+    right: 0;
   }
 }
 @media (min-width: 768px) {
